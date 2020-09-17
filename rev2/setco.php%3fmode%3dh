@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<META name="robots" content="index,nofollow">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META name="keywords" content="ウィズ,レジェンズ,Legendz,レジェンズ公式ホームページ,レジェンズ制作委員会">
+<META name="description" content="レジェンズオフィシャルサイトです。TVアニメ絶賛放映中！！">
+<META ="copyright" content="WiZ CO.,LTD.">
+<META ="content-language" content="ja">
+<LINK REL="SHORTCUT ICON" href="./shiron.ico"> 
+<LINK REL=stylesheet type="text/css" href="./stylesheet2.css">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<TITLE>Legendz Web Site</TITLE>
+<SCRIPT SRC =" ./menu.js"></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function opn_pop041016() {
+	opnwin=window.open(
+				"/rev2/popup/pop050101.html",
+				"info","width=610,height=420,toolbar=0,status=0,resizable=0,menubar=0,scrollbars=0");
+}
+//-->
+</script>
+
+</head>
+
+<!--<body LINK="#000066" VLINK="#000066" ALINK="#000066" bgcolor="#000066" background="./images/bg1t.gif" onLoad="javascript:opn_pop041016();">-->
+<body LINK="#000066" VLINK="#000066" ALINK="#000066" bgcolor="#000066" background="./images/bg1t.gif">
+<table width="800" height="600"  border="0" cellpadding="0" cellspacing="0"  align="center">
+  <tr>
+    <td align="center" valign="middle">
+<IMG SRC="./httop_main.jpg" USEMAP="#httop_main">
+<MAP NAME="httop_main">
+<AREA SHAPE="rect" COORDS="83,30,230,80" HREF="./event2.php">
+<AREA SHAPE="rect" COORDS="281,29,532,78" HREF="./wallpaper.php">
+<AREA SHAPE="rect" COORDS="610,31,752,80" HREF="./members.php">
+<AREA SHAPE="rect" COORDS="84,415,222,457" HREF="./playland.php">
+<AREA SHAPE="rect" COORDS="609,413,754,460" HREF="./support2.php">
+<AREA SHAPE="rect" COORDS="25,485,100,517" HREF="./md.php">
+<AREA SHAPE="rect" COORDS="109,485,182,521" HREF="./commic.php">
+<AREA SHAPE="rect" COORDS="188,486,262,522" HREF="./tvanime.php">
+<AREA SHAPE="rect" COORDS="190,146,328,225" HREF="./anime.php">
+<AREA SHAPE="rect" COORDS="340,112,473,182" HREF="./story.php">
+<AREA SHAPE="rect" COORDS="483,154,629,229" HREF="./charinfo.php">
+<AREA SHAPE="rect" COORDS="184,237,325,316" HREF="./whats.php">
+<AREA SHAPE="rect" COORDS="331,277,475,361" HREF="./news2.php">
+<AREA SHAPE="rect" COORDS="483,239,623,315" HREF="./backnumber.php">
+<AREA SHAPE="default" NOHREF>
+</MAP>
+</td></tr>
+
+<tr>
+<td align="right" valign="middle"><font size="-1" color="#FFFFFF">このウェブサイトの無断転載を禁じます。&copy;WiZ・レジェンズ製作委員会 2003</font></td>
+  </tr>
+
+
+ 
+  <tr><td align="reight">
+<table border="0" width="250" align="right" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="middle"><a href="http://www.wizinc.co.jp/" target = "_blank"><IMG src="./images/s-wiz.gif"></a></td>
+<td align="left" valign="middle"><a href="http://www.bandai.co.jp/" target = "_blank"><IMG src="./images/s-bandai.gif"></a></td>
+<td align="left" valign="middle"><a href="http://www.shueisha.co.jp/index_f.html" target = "_blank"><IMG src="./images/s-syuu.gif"></a></td>
+<td align="left" valign="middle"><a href="http://www.fujitv.co.jp/" target = "_blank"><IMG src="./images/s-fuji.gif"></a></td>
+<td align="left" valign="middle"><a href="http://www.adk.jp/index_ja.html" target = "_blank"><IMG src="./images/s-adk.gif"></a></td>
+</table>
+<a href="./pctop.html"><font color="#FFFFFF">>>TOPページへ</font></a><br>
+
+  </tr></td>
+  
+</table>
+
+</body>
+</html>

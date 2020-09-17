@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<title>LEGENDZ--甦る竜王伝説--</title>
+<script language="JavaScript" src="./font.js" type="text/JavaScript"></script>
+</head>
+
+<!--<body bgcolor="#000000" text="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('./images/news_f2.jpg','./images/zukan_f2.jpg','./images/report_f2.jpg','./images/contuct_f2.jpg','./images/top_f2.jpg')">-->
+<body bgcolor="#000000" text="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="245"><img name="logo" src="./images/logo.jpg" width="245" height="135" border="0" alt="レジェンズ：甦る竜王伝説"></td>
+    <td width="555"><img name="headpic" src="./images/headpic.jpg" width="555" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <table width="750" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="./images/spacer.gif" width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td><center>お問い合わせ</center></td>
+        </tr>
+        <tr>
+          <td><br>
+<CENTER>※お問い合わせをいただく前に、Q&Aでご確認下さい。</CENTER>
+<CENTER><a href="./question.php">Q&Aはこちら</a></CENTER>
+<br>
+<br>
+<CENTER>Q&A以外のご質問・問題点等ございましたら、下記の送信ﾌｫｰﾑより内容ご記入の上お知らせ下さい。</CENTER>
+<CENTER><a href="/rev2/support.php?modeset=form">送信ﾌｫｰﾑへ</a></CENTER>
+            </td>
+        </tr>
+<tr><td>
+<br>
+<br>
+<center><a href="./menu.html">[戻る]</a></center>
+</td>
+</tr>
+      </table>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="./images/foot.jpg" width="718" height="120"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">&copy;WiZ・レジェンズ製作委員会 2003　このウェブサイトの無断転載を禁じます。</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
